@@ -6,7 +6,7 @@ Details_Resume
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    **home page**                    |                        **samaresh samanta ,sanskar gupta**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+|                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
