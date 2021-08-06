@@ -6,12 +6,12 @@ Details_Resume
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    **home page**                    |                        **samaresh samanta ,sanskar gupta**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
-|                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
+|                    **Process and leadboard **                    |                        **Rishit**                       |
 |                    **FAQs**                    |                        **Sanjeeban**                       |
 |                    **Submission**                    |                        **Mayank**                       |
 |                    **event / single event page**                    |                        **Vikash**                       |
 |                    **Footer/nav**                    |                        **rajya vardhan**                       |
 |                    **colleges with us and its individual page**                    |                        **Divyanshu**                       |
-|                    **Process and leadboard**                    |                        **Tauqeer Ali**                       |
+|                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Tauqeer Ali**                       |
 
 
