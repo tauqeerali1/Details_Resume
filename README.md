@@ -4,14 +4,14 @@ Details_Resume
 
    | [Project Work](https://youtu.be/onzjlKyN5iI) | [Team Name](https://www.youtube.com/watch?v=3ckUMhZOENI&t=97s) | 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
-|                    **home page**                    |                        **samaresh & sanskar**                       | | 
+|                    **Home Page**                    |                        **Samaresh & Sanskar**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
-|                    **Footer/nav**                    |                        **rajya vardhan**                       |
+|                    **Footer/nav**                    |                        **Rajya vardhan**                       |
 |                    **FAQs**                    |                        **Sanjeeban**                       |
 |                    **Submission**                    |                        **Mayank**                       |
-|                    **event / single event page**                    |                        **Vikash**                       |
-|                    **Process and leadboard**                    |                        **Tauqeer Ali**                       |
-|                    **colleges with us and its individual page**                    |                        **Divyanshu**                       |
+|                    **Event / Single event page**                    |                        **Vikash**                       |
+|                    **Process and Leadboard**                    |                        **Tauqeer Ali**                       |
+|                    **Colleges with us and its individual page**                    |                        **Divyanshu**                       |
 |                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
 
 
