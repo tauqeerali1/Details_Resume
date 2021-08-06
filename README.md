@@ -5,7 +5,7 @@ Details_Resume
    | [Project Work](https://youtu.be/onzjlKyN5iI) | [Team Name](https://www.youtube.com/watch?v=3ckUMhZOENI&t=97s) | 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    **home page**                    |                        **samaresh samanta ,sanskar gupta**                       | | 
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+|                    **Editions 1, 2**                    |                        **Praveen**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
