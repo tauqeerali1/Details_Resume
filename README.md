@@ -13,7 +13,5 @@ Details_Resume
 |                    **Footer/nav**                    |                        **rajya vardhan**                       |
 |                    **colleges with us and its individual page**                    |                        **Divyanshu**                       |
 |                    **Process and leadboard**                    |                        **Tauqeer Ali**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+
 
