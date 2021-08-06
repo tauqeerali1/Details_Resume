@@ -8,8 +8,8 @@ Details_Resume
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
 |                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
 |                    **FAQs**                    |                        **Sanjeeban**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+|                    **Submission**                    |                        **Mayank**                       |
+|                    **event / single event page**                    |                        **Vikash**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
