@@ -12,7 +12,7 @@ Details_Resume
 |                    **event / single event page**                    |                        **Vikash**                       |
 |                    **Footer/nav**                    |                        **rajya vardhan**                       |
 |                    **colleges with us and its individual page**                    |                        **Divyanshu**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+|                    **Process and leadboard**                    |                        **Tauqeer Ali**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
