@@ -4,7 +4,7 @@ Details_Resume
 
    | [Project Work](https://youtu.be/onzjlKyN5iI) | [Team Name](https://www.youtube.com/watch?v=3ckUMhZOENI&t=97s) | 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
-|                    **home page**                    |                        **samaresh samanta ,sanskar gupta**                       | | 
+|                    **home page**                    |                        **samaresh & sanskar**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
 |                    **Footer/nav**                    |                        **rajya vardhan**                       |
 |                    **FAQs**                    |                        **Sanjeeban**                       |
