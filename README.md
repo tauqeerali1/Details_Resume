@@ -1,5 +1,3 @@
-Details_Resume
-
 ## T-Summit Aaruush | Project 
 
    | [Project Work](https://github.com/sahaj169/envision-temp) | [Team Name](https://github.com/sahaj169/envision-temp) | 
