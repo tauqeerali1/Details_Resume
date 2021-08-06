@@ -6,7 +6,7 @@ Details_Resume
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    **home page**                    |                        **samaresh samanta ,sanskar gupta**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
-|                    **Process and leadboard **                    |                        **Tauqeer Ali**                       |
+|                    **Process and leadboard**                    |                        **Tauqeer Ali**                       |
 |                    **FAQs**                    |                        **Sanjeeban**                       |
 |                    **Submission**                    |                        **Mayank**                       |
 |                    **event / single event page**                    |                        **Vikash**                       |
