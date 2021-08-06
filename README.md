@@ -2,7 +2,7 @@ Details_Resume
 
 ## Youtube Videos
 
-   | [Project Work](https://youtu.be/onzjlKyN5iI) | [Team Name](https://www.youtube.com/watch?v=3ckUMhZOENI&t=97s) | 
+   | [Project Work](https://github.com/sahaj169/envision-temp) | [Team Name](https://github.com/sahaj169/envision-temp) | 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    **Home Page**                    |                        **Samaresh & Sanskar**                       | | 
 |                    **Editions 1, 2**                    |                        **Praveen**                       |
