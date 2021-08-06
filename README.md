@@ -13,4 +13,5 @@
 |                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
 
 
+---
 - :paperclip: [Design Link](https://www.figma.com/file/wWl9BjhNIycbx2KS14xU8m/T-Summit-Website-UI?node-id=0%3A1)
