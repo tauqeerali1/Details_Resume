@@ -11,7 +11,7 @@ Details_Resume
 |                    **Submission**                    |                        **Mayank**                       |
 |                    **event / single event page**                    |                        **Vikash**                       |
 |                    **Footer/nav**                    |                        **rajya vardhan**                       |
-|                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
+|                    **colleges with us and its individual page**                    |                        **Divyanshu**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       |
